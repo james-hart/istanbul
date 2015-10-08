@@ -104,7 +104,10 @@
     "resolve": "1.1.x",
     "supports-color": "^3.1.0",
     "which": "^1.1.1",
-    "wordwrap": "^1.0.0"
+    "wordwrap": "^1.0.0",
+    "js-yaml": "3.x",
+    "once": "1.x",
+    "source-map": "0.4.x"
   },
   "devDependencies": {
     "coveralls": "2.x",
@@ -112,6 +115,11 @@
     "jshint": "^2.8.0",
     "nodeunit": "0.9.x",
     "requirejs": "2.x",
-    "rimraf": "^2.4.3"
+    "rimraf": "^2.4.3",
+    "coveralls": "2.x",
+    "glob": "4.4.x",
+    "browserify": "9.x",
+    "traceur": "0.x",
+    "typescript": "1.5.0-beta"
   }
 }
